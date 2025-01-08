@@ -4,3 +4,9 @@ Hello!!
 This is an edit
 
 
+To collaborate,
+
+git clone #paste url of other repository
+#manually edit txt file from folders
+Git status #checks and states modified files
+Git commit filename -m "commit message goes here"
