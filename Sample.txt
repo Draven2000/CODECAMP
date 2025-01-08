@@ -1,4 +1,4 @@
-Hello!!
+this is really harder than it needs to be 
 
 
-This is an edit
+This is a conflict test
